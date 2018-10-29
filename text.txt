@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B6E4-D877
+
+ Directory of C:\Users\admin\Desktop\testing
+
+10/28/2018  08:02 PM    <DIR>          .
+10/28/2018  08:02 PM    <DIR>          ..
+10/28/2018  08:02 PM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  21,540,745,216 bytes free
