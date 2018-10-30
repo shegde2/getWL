@@ -1,4 +1,5 @@
 print "This is first jenkin interaction with python"
+print "start now"
 val=10
 i=0
 for i in range(0,10):
